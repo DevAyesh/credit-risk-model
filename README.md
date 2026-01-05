@@ -327,27 +327,11 @@ The system provides transparency through:
 
 This project is licensed under the MIT License. See LICENSE file for details.
 
-## Contact Information
-
-For questions, suggestions, or collaboration opportunities:
-
-- Email: your.email@example.com
-- LinkedIn: linkedin.com/in/yourprofile
-- GitHub: github.com/yourusername
-
 ## Acknowledgments
 
 - Dataset sourced from public credit risk repositories
 - Built using open-source libraries and frameworks
 - Inspired by real-world financial risk assessment systems
-
-## Version History
-
-**Version 1.0.0** (January 2026)
-- Initial release
-- Three model implementations
-- Web-based prediction interface
-- Comprehensive performance analysis
 
 ---
 
